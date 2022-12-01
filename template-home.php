@@ -41,8 +41,8 @@
 						<li><a href="#two">Who I Am</a></li>
 						<li><a href="#work">What people say</a></li>
 						<a href="#contact">Where we are</a></li>-->
-						<a href="/order/">Order</a></li>
-						<a href="/contact-us/">Contact</a></li>
+						<li><a href="/order/">Order</a></li>
+						<li><a href="/contact-us/">Contact</a></li>
 					</ul>
 				</nav>
 			</header>

@@ -182,8 +182,30 @@
 		}
 	}
 
+	header{
+		margin: 0 !important;
+		padding: 0 !important;
+		h1{
+			font-size: 3em !important;
+			margin: .67em 0 !important;
+		}
+	}
+
 	footer{
 		&#colophon{
 			display: none;
+		}
+	}
+
+	html{
+		body{
+			padding-top: 0 !important;
+			a:focus, input:focus, textarea:focus, button:focus{
+				outline: unset !important;
+			}
+
+			ul.menu li{
+				border-left: 0em !important;
+			}
 		}
 	}

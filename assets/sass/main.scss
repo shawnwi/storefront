@@ -162,3 +162,18 @@
 			}
 		}
 	}
+
+	.site-header{
+		.site-branding{
+			margin-bottom: 0;
+			img{
+				max-width: 200px;
+			}
+		}
+	} 
+
+	.main-navigation{
+		ul{
+			text-align: right;
+		}
+	}

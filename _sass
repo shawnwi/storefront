@@ -1,0 +1,11 @@
+#!/bin/bash
+
+
+echo “Move zig for great Justic!”
+
+#Move to the directory where this file is run
+DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
+cd "${DIR}"
+
+#Start sass watch
+sass --watch assets/sass/main.scss assets/homecss/main.css

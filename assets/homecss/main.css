@@ -2035,4 +2035,15 @@ body.is-touch .main {
   }
 }
 
+.site-header .site-branding {
+  margin-bottom: 0;
+}
+.site-header .site-branding img {
+  max-width: 200px;
+}
+
+.main-navigation ul {
+  text-align: right;
+}
+
 /*# sourceMappingURL=main.css.map */

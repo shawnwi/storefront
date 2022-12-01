@@ -2077,6 +2077,16 @@ html body a:focus, html body input:focus, html body textarea:focus, html body bu
 }
 html body ul.menu li {
   border-left: 0em !important;
+  padding: 0em !important;
+  margin: 0em !important;
+}
+html body .main-navigation ul ul li a {
+  min-width: 200px;
+}
+@media (min-width: 768px) {
+  html body .main-navigation ul ul li a {
+    min-width: 200px !important;
+  }
 }
 
 /*# sourceMappingURL=main.css.map */

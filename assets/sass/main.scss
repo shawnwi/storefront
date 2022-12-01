@@ -206,6 +206,14 @@
 
 			ul.menu li{
 				border-left: 0em !important;
+				padding: 0em !important;
+				margin: 0em !important;
+			}
+
+			.main-navigation ul ul li a{
+				min-width: 200px;
+				@media (min-width: 768px){ min-width: 200px !important;}
+
 			}
 		}
 	}

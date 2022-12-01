@@ -2056,8 +2056,27 @@ body.is-touch .main {
   }
 }
 
+header {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+header h1 {
+  font-size: 3em !important;
+  margin: 0.67em 0 !important;
+}
+
 footer#colophon {
   display: none;
+}
+
+html body {
+  padding-top: 0 !important;
+}
+html body a:focus, html body input:focus, html body textarea:focus, html body button:focus {
+  outline: unset !important;
+}
+html body ul.menu li {
+  border-left: 0em !important;
 }
 
 /*# sourceMappingURL=main.css.map */

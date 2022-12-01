@@ -35,6 +35,7 @@
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
+<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/homecss/main.css" />
 <footer id="footer">
 
 				<!-- Icons -->

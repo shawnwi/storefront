@@ -168,6 +168,9 @@
 			margin-bottom: 0;
 			img{
 				max-width: 200px;
+				@media (min-width: 768px){
+					max-width: 200px !important;
+				}
 			}
 		}
 	} 
@@ -175,5 +178,12 @@
 	.main-navigation{
 		ul{
 			text-align: right;
+			@media (min-width: 768px){ text-align: right !important;}
+		}
+	}
+
+	footer{
+		&#colophon{
+			display: none;
 		}
 	}

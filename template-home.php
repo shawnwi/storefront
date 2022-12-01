@@ -36,10 +36,13 @@
 				<nav>
 					<ul>
 						<li><a href="#intro">Intro</a></li>
-						<li><a href="#one">What I Do</a></li>
+						<li><a href="/about-us/">About us</a></li>
+						<!--<li><a href="#one">What I Do</a></li>
 						<li><a href="#two">Who I Am</a></li>
 						<li><a href="#work">What people say</a></li>
-						<li><a href="#contact">Contact</a></li>
+						<a href="#contact">Where we are</a></li>-->
+						<a href="/order/">Order</a></li>
+						<a href="/contact-us/">Contact</a></li>
 					</ul>
 				</nav>
 			</header>

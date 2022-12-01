@@ -2041,9 +2041,23 @@ body.is-touch .main {
 .site-header .site-branding img {
   max-width: 200px;
 }
+@media (min-width: 768px) {
+  .site-header .site-branding img {
+    max-width: 200px !important;
+  }
+}
 
 .main-navigation ul {
   text-align: right;
+}
+@media (min-width: 768px) {
+  .main-navigation ul {
+    text-align: right !important;
+  }
+}
+
+footer#colophon {
+  display: none;
 }
 
 /*# sourceMappingURL=main.css.map */

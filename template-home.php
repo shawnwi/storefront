@@ -55,7 +55,7 @@
 						<h2>澌人厨房</h2>
 						<h5>Lizz's Kitchen</h5>
 					</header>
-					<p>Welcome to <strong>Lizz's Kitchen</strong>, specializes in home-cooked meals. We only do deliveries, call us for more</p>
+					<p>Welcome to <strong>Lizz's Kitchen</strong>, specializes in home-cooked meals, call us for more information.</p>
 					<footer>
 						<a href="#one" class="button style2 down">More</a>
 					</footer>
